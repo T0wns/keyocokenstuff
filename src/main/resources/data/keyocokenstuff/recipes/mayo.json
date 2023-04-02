@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "keyocokenstuff:vinegar"
+    },
+    {
+      "item": "keyocokenstuff:sunflower_oil"
+    }
+  ],
+  "result": {
+    "item": "keyocokenstuff:mayonnaise",
+    "count": 1
+  }
+}

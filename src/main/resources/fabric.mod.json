@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "keyocokenstuff",
+  "version": "1.0.0",
+  "name": "Keyocokenstuff",
+  "description": "Condiments.",
+  "authors": [
+    "T0wns"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "All Rights Reserved",
+  "icon": "assets/keyocokenstuff/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cringeco.keyocokenstuff.KeyocokenstuffMod"
+    ],
+    "client": [
+      "net.cringeco.keyocokenstuff.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.18",
+    "java": ">=17"
+  }
+}
